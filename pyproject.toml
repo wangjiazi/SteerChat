@@ -1,0 +1,28 @@
+[build-system]
+requires = ["setuptools>=77"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "steerchat"
+version = "0.1.0"
+description = "Preference-based activation steering for local language models"
+readme = "README.md"
+requires-python = ">=3.11"
+license = "MIT"
+license-files = ["LICENSE"]
+dependencies = [
+    "torch>=2.6,<3",
+    "transformers>=4.57.3,<5",
+]
+
+[project.scripts]
+steerchat = "steerchat.cli:main"
+
+[project.urls]
+Repository = "https://github.com/wangjiazi/SteerChat"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+steerchat = ["concise_pairs.json"]
