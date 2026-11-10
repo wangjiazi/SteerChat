@@ -1,0 +1,34 @@
+[
+  {
+    "positive": "Give a concise answer in one or two sentences. Why does the Moon have phases?",
+    "negative": "Give a detailed answer with explanations and examples. Why does the Moon have phases?"
+  },
+  {
+    "positive": "Give a concise answer in one or two sentences. How does a bicycle gear work?",
+    "negative": "Give a detailed answer with explanations and examples. How does a bicycle gear work?"
+  },
+  {
+    "positive": "Give a concise answer in one or two sentences. What makes a rainbow appear?",
+    "negative": "Give a detailed answer with explanations and examples. What makes a rainbow appear?"
+  },
+  {
+    "positive": "Give a concise answer in one or two sentences. How can I organize a small closet?",
+    "negative": "Give a detailed answer with explanations and examples. How can I organize a small closet?"
+  },
+  {
+    "positive": "Give a concise answer in one or two sentences. Why do cities plant trees along streets?",
+    "negative": "Give a detailed answer with explanations and examples. Why do cities plant trees along streets?"
+  },
+  {
+    "positive": "Give a concise answer in one or two sentences. How does a reusable water bottle keep a drink cold?",
+    "negative": "Give a detailed answer with explanations and examples. How does a reusable water bottle keep a drink cold?"
+  },
+  {
+    "positive": "Give a concise answer in one or two sentences. What is the purpose of a book index?",
+    "negative": "Give a detailed answer with explanations and examples. What is the purpose of a book index?"
+  },
+  {
+    "positive": "Give a concise answer in one or two sentences. Why do people rotate the tires on a car?",
+    "negative": "Give a detailed answer with explanations and examples. Why do people rotate the tires on a car?"
+  }
+]
